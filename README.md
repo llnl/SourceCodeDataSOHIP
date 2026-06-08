@@ -58,5 +58,7 @@ copyright assignment is required to contribute to SOHIP.
 Unlimited Open Source - MIT Distribution
 `LLNL-CODE-2019387`
 
+Code control/publication number for SATOPMM: `CP 2026-015`
+
 The dataset in `data/` is released separately as `LLNL-DATA-2019578` with
 Unlimited/Notice 1 distribution. See `NOTICE` and `data/README.md`.
