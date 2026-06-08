@@ -18,6 +18,22 @@ This module provides:
 - Inputs for Abel functions are intended as 1D arrays, for slab functions as 2D arrays with
   shape (layers, columns), where each column is processed independently.
 
+## Dataset
+
+This repository includes one released dataset:
+
+`data/procyon_V3Cam_f=20000_d=0088x0096_b=01_e=000000800us_t=1371332732208ms.csv`
+
+Dataset title: Procyon Bending Angle Data Derived from SOHIP V3Cam
+
+Release information:
+- LLNL dataset identifier: `LLNL-DATA-2019578`
+- Control/publication number: `CP 2026-180`
+- Distribution type: Unlimited/Notice 1
+- Authors: Lance M. Simms, Cesar Laguna, and Dana L. McGuffin
+
+See `data/README.md` for the dataset schema and release notes.
+
 ## References
 
 The forward Abel transform uses the form (eq(4.11) in García (2004)):
@@ -41,3 +57,6 @@ copyright assignment is required to contribute to SOHIP.
 
 Unlimited Open Source - MIT Distribution
 `LLNL-CODE-2019387`
+
+The dataset in `data/` is released separately as `LLNL-DATA-2019578` with
+Unlimited/Notice 1 distribution. See `NOTICE` and `data/README.md`.
