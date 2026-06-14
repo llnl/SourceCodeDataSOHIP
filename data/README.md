@@ -36,5 +36,5 @@ distribution. The software in the repository is licensed separately under the
 MIT license; that software license does not by itself change the dataset
 release terms.
 
-See the repository `NOTICE` file for the Lawrence Livermore National Laboratory
-notice included with this release.
+See the repository `DATA_NOTICE` file for the Lawrence Livermore National
+Laboratory notice included with this dataset release.

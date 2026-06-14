@@ -61,4 +61,4 @@ Unlimited Open Source - MIT Distribution
 Code control/publication number for SATOPMM: `CP 2026-015`
 
 The dataset in `data/` is released separately as `LLNL-DATA-2019578` with
-Unlimited/Notice 1 distribution. See `NOTICE` and `data/README.md`.
+Unlimited/Notice 1 distribution. See `DATA_NOTICE` and `data/README.md`.
